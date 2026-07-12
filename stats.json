@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
-  "currentStreak": 2,
+  "totalSolved": 3,
+  "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-07-10",
+  "lastSyncDate": "2026-07-12",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Permutations_II": true,
-    "LeetCode_Jump_Game": true
+    "LeetCode_Jump_Game": true,
+    "LeetCode_Insert_Interval": true
   },
   "activityHistory": {
     "2026-07-09": 1,
-    "2026-07-10": 1
+    "2026-07-10": 1,
+    "2026-07-12": 1
   },
   "todayProblems": [
-    "Jump Game"
+    "Insert Interval"
   ]
 }
